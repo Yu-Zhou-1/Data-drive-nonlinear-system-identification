@@ -6,7 +6,7 @@ This project collects some benchmark problems of nonlinear system identification
 2. **Nonlinear time-invariant tystem:**
    
    ***2.1 (Narendra,1991) benchmark***
-   ***2.2 Wiener-Hammerstein benchmark***
+    ***2.2 Wiener-Hammerstein benchmark***
 
  ```
  include 
